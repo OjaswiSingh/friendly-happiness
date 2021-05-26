@@ -1,0 +1,6 @@
+git config --global user.name "OjaswiSingh"
+git config --global user.email "ojaswisinghnaruto@gmail.com"
+
+git add pro1.py
+git status
+
