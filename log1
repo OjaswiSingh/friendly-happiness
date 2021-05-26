@@ -3,4 +3,9 @@ git config --global user.email "ojaswisinghnaruto@gmail.com"
 
 git add pro1.py
 git status
+git add
+git push remote origin master
+git push
+git commit
 
+git cloning: git clone //url//
